@@ -30,3 +30,8 @@ gcc telecom.c -o telecom
 
 ### Run GUI:
 python app.py
+
+## Sample Output
+![GUI Screenshot](screenshot.png)
+
+
